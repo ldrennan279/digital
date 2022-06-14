@@ -1,0 +1,59 @@
+.top{
+
+}
+.top--leePic{
+    width: 317px;
+    border-radius: 10px 10px 0px 0px;
+}
+.top--leeName, .top--occupation, .top--email, .top--email-btn, .top--linkedIn-btn{
+    text-align: center;
+    margin: 0;
+    
+}
+.top--leeName{
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 25px;
+}
+.top--occupation{
+    color: #F3BF99;
+    font-weight: 400;
+    font-size: 12.8px;
+    padding: 6.19px;
+}
+.top--email{
+    color: #F5F5F5;
+    font-weight: 400;
+    font-size: 10.24px;
+    padding: 8.81px;
+}
+.top--btn-selection{
+    display:flex;
+    justify-content: space-between;
+    padding: 15px 35px 33px 35px;
+
+}
+.top--email-btn, .top--linkedIn-btn{
+    width: 115px;
+    border-radius: 6px;
+    padding:9px 13px ;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.top--email-btn{
+    background-color: #FFFFFF;
+    color:#374151;
+}
+.top--linkedIn-btn{
+    display: flex;
+    background-color: #5093E2;
+    color: #ffffff;
+    margin: 0;
+}
+.top--email-icon, .top--linkedin-icon {
+    margin: 0;
+    margin-right: 8px;
+
+}
