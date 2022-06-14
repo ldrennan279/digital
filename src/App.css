@@ -1,15 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
-</style>
-
 body{
   box-sizing: border-box;
   margin: 0;
-  /* background-color: #23252C; */
+  background-color: #23252C;
   font-family: Inter, sans-serif;
+  position: relative;
 }
 .App{
   max-width: 317px;
   border-radius: 10px;
   background-color: #1A1B21;
+  position: absolute;
+  left: 50%;
 }
 
